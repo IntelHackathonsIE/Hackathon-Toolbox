@@ -6,3 +6,13 @@ Data from sensors can be processed on an Edison or Galileo board and transferred
 https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=062ec653-df20-41f8-aef8-be4566dfe442#fullpageWidgetId=W1d7c9b8ef9d3_4b39_94ed_c83a5748e3be 
 
 Data from Galileo or Edison can be transferred to any cloud provider that supports MQTT or HTTP. 
+
+Other useful Galileo links include:
+https://www.hackster.io/intel-galileo  
+http://www.instructables.com/id/Intel-Galileo-Projects/ 
+https://github.com/IntelHackathonsIE/Hackathon-Toolbox 
+http://alextgalileo.altervista.org/index.html 
+http://www.intel.com/support/galileo/sb/CS-035073.htm 
+
+
+
