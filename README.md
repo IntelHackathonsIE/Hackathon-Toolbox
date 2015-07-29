@@ -8,10 +8,15 @@ https://www.ibm.com/developerworks/community/groups/service/html/communityview?c
 Data from Galileo or Edison can be transferred to any cloud provider that supports MQTT or HTTP. 
 
 Other useful Galileo links include:
-https://www.hackster.io/intel-galileo  
+
+https://www.hackster.io/intel-galileo
+
 http://www.instructables.com/id/Intel-Galileo-Projects/ 
+
 https://github.com/IntelHackathonsIE/Hackathon-Toolbox 
+
 http://alextgalileo.altervista.org/index.html 
+
 http://www.intel.com/support/galileo/sb/CS-035073.htm 
 
 
