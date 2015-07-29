@@ -19,5 +19,10 @@ http://alextgalileo.altervista.org/index.html
 
 http://www.intel.com/support/galileo/sb/CS-035073.htm 
 
+Links to other projects: 
+
+http://www.global.datafest.net/projects 
+
+
 
 
