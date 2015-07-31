@@ -21,5 +21,7 @@ http://www.global.datafest.net/projects
 
 http://www.instructables.com/id/Intel-Galileo-Projects/ 
 
+https://learn.sparkfun.com/tutorials/galileo-experiment-guide/introduction
+
 
 
