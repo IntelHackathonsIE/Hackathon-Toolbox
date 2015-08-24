@@ -15,6 +15,8 @@ http://alextgalileo.altervista.org/index.html
 
 http://www.intel.com/support/galileo/sb/CS-035073.htm 
 
+http://intel-software-academic-program.com/pages/courses#iot
+
 https://www.cooking-hacks.com/documentation/tutorials/intel-galileo-tutorial-using-arduino-and-raspberry-pi-shields-modules-boards/ 
 
 Links to other projects: 
