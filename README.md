@@ -13,6 +13,8 @@ https://www.hackster.io/intel-galileo
 
 http://alextgalileo.altervista.org/index.html 
 
+http://www.gregorykelleher.com/
+
 http://www.intel.com/support/galileo/sb/CS-035073.htm 
 
 http://intel-software-academic-program.com/pages/courses#iot
