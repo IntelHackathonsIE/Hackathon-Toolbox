@@ -31,5 +31,8 @@ http://www.instructables.com/id/Intel-Galileo-Projects/
 
 https://learn.sparkfun.com/tutorials/galileo-experiment-guide/introduction
 
+Wind River Rocket
+see http://www.windriver.com/products/operating-systems/rocket/  Easy to follow steps to connect Galileo to Wind River's IDE in the cloud. Setup and configuration steps are easy to follow. You can even watch a video to step through the process. Example code available to get you started.
+
 
 
